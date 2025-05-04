@@ -1,0 +1,12 @@
+extern u64 screaming_ScreamL_ci8[];
+extern u64 screaming_ScreamL_pal_rgba16[];
+extern u64 screaming_ScreamR_ci8[];
+extern u64 screaming_ScreamR_pal_rgba16[];
+extern Vtx screaming_screaming_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx screaming_screaming_mesh_layer_Opaque_vtx_0[50];
+extern Gfx screaming_screaming_mesh_layer_Opaque_tri_0[];
+extern Vtx screaming_screaming_mesh_layer_Opaque_vtx_1[51];
+extern Gfx screaming_screaming_mesh_layer_Opaque_tri_1[];
+extern Gfx mat_screaming_FaceRightScream_layerOpaque[];
+extern Gfx mat_screaming_FaceLeftScream_layerOpaque[];
+extern Gfx screaming[];

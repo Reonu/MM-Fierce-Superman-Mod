@@ -1,0 +1,10 @@
+extern u64 not_screaming_left_rgba16[];
+extern u64 not_screaming_right_rgba16[];
+extern Vtx not_screaming_not_screaming_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx not_screaming_not_screaming_mesh_layer_Opaque_vtx_0[53];
+extern Gfx not_screaming_not_screaming_mesh_layer_Opaque_tri_0[];
+extern Vtx not_screaming_not_screaming_mesh_layer_Opaque_vtx_1[51];
+extern Gfx not_screaming_not_screaming_mesh_layer_Opaque_tri_1[];
+extern Gfx mat_not_screaming_FaceRight_layerOpaque[];
+extern Gfx mat_not_screaming_FaceLeft_layerOpaque[];
+extern Gfx not_screaming[];
